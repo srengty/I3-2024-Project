@@ -4,4 +4,4 @@
     - git remote add origin/main url
     - git add .
     - git commit -m "Initialize project"
-    
+    - git push
